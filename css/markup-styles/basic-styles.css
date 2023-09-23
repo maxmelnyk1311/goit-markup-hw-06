@@ -1,0 +1,31 @@
+body {
+    font-family: Roboto,
+        sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+}
+
+.styled-link {
+    text-decoration: none;
+}
+
+.styled-list {
+    list-style-type: none;
+}
