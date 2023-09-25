@@ -107,6 +107,8 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 768px) and (max-width: 11
         url(../../images/hero-bg-image/hero-section-bg-image-desktop.jpg);
         padding-top: 188px;
         padding-bottom: 188px;
+        max-width: 1440px;
+        margin: auto;
     }
 
     .hero-header {
